@@ -1,0 +1,6 @@
+/Users/gcaron/projects/C#_Tuto/TextFileDemo/obj/x86/Debug/TextFileDemo.csprojResolveAssemblyReference.cache
+/Users/gcaron/projects/C#_Tuto/TextFileDemo/obj/x86/Debug/TextFileDemo.csproj.CoreCompileInputs.cache
+/Users/gcaron/projects/C#_Tuto/TextFileDemo/bin/Debug/TextFileDemo.exe
+/Users/gcaron/projects/C#_Tuto/TextFileDemo/bin/Debug/TextFileDemo.pdb
+/Users/gcaron/projects/C#_Tuto/TextFileDemo/obj/x86/Debug/TextFileDemo.exe
+/Users/gcaron/projects/C#_Tuto/TextFileDemo/obj/x86/Debug/TextFileDemo.pdb

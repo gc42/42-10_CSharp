@@ -1,0 +1,11 @@
+PAYSLIP FOR FEV 2012
+===================
+Name of Staff: Carol
+Hours Worked: 3000
+
+Basic Pay: $90,000.00
+Overtime: $44,020.00 hours
+
+===================
+Total Pay: $134,020.00
+===================
