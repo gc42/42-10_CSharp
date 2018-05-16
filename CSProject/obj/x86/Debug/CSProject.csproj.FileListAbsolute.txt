@@ -1,6 +1,6 @@
-/Users/gcaron/projects/C#_Tuto/CSProject/obj/x86/Debug/CSProject.csprojResolveAssemblyReference.cache
-/Users/gcaron/projects/C#_Tuto/CSProject/obj/x86/Debug/CSProject.csproj.CoreCompileInputs.cache
 /Users/gcaron/projects/C#_Tuto/CSProject/bin/Debug/CSProject.exe
 /Users/gcaron/projects/C#_Tuto/CSProject/bin/Debug/CSProject.pdb
+/Users/gcaron/projects/C#_Tuto/CSProject/obj/x86/Debug/CSProject.csprojResolveAssemblyReference.cache
+/Users/gcaron/projects/C#_Tuto/CSProject/obj/x86/Debug/CSProject.csproj.CoreCompileInputs.cache
 /Users/gcaron/projects/C#_Tuto/CSProject/obj/x86/Debug/CSProject.exe
 /Users/gcaron/projects/C#_Tuto/CSProject/obj/x86/Debug/CSProject.pdb

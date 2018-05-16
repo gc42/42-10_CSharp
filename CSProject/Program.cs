@@ -8,9 +8,9 @@ namespace CSProject
         public static void Main(string[] args)
         {
             List<Staff> myStaff = new List<Staff>();
-            FileReader  fr = new FileReader();
+			FileReader  fr = new FileReader();
             int         month   = 0;
-            int         year    = 0;
+			int         year    = 0;
 
             // Input Year and test if it is valid
             while (year == 0)
@@ -19,7 +19,7 @@ namespace CSProject
 
                 try
                 {
-                    //Code to convert the input to an integer
+					//Code to convert the input to an integer
                     year = Convert.ToInt32(Console.ReadLine());
                 }
                 catch (FormatException)
@@ -45,7 +45,7 @@ namespace CSProject
                     if (month < 1 || month > 12)
                     {
                         month = 0;
-                        Console.WriteLine("Only 12 month ina year. Please enter a number between 1 and 12.");
+                        Console.WriteLine("Only 12 month in a year. Please enter a number between 1 and 12.");
                     }
                 }
                 catch (FormatException)
@@ -84,7 +84,8 @@ namespace CSProject
             ps.GeneratePaySlip(myStaff);
             ps.GenerateSummary(myStaff);
 
-            Console.Read();
+            // To maintain the Console Open. Not needed here.
+            //Console.Read();
         }
 
 

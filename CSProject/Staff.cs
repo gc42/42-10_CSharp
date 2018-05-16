@@ -8,9 +8,9 @@ namespace CSProject
         private int     hWorked;
 
         // Properties
-        public float TotalPay { get; protected set; }
-        public float BasicPay { get; private set; }
-        public string NameOfStaff { get; private set; }
+        public float    TotalPay        { get; protected set; }
+        public float    BasicPay        { get; private set; }
+        public string   NameOfStaff     { get; private set; }
 
         public int HoursWorked
         {
@@ -49,11 +49,12 @@ namespace CSProject
 
         public override string ToString()
         {
-            return "hourlyRate: " + hourlyRate +
-                  "hWorked: " + hWorked +
-                  "BasicPay: " + BasicPay +
-                  "TotalPay: " + TotalPay +
-                  "Name of Staff: " + NameOfStaff;
+            return 
+				"Name of Staff: " + NameOfStaff +
+				"hWorked: "       + hWorked +
+                "hourlyRate: "    + hourlyRate +
+                "BasicPay: "      + BasicPay +
+                "TotalPay: "      + TotalPay;
         }
     }
 }

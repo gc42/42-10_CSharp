@@ -5,6 +5,7 @@ namespace CSProject
     {
         // Fields
         private const float managerHourlyRate = 50.0f;
+        private const int   managerOverTime   = 160;
 
         // Properties
         public int Allowance { get; private set; }
@@ -22,20 +23,28 @@ namespace CSProject
             base.CalculatePay();
             Allowance = 1000;
 
-            if (HoursWorked > 160)
+            if (HoursWorked > managerOverTime)
             {
                 TotalPay = BasicPay + Allowance;
             }
+            else
+                Allowance = 0;
 		}
+
+        TASK
 
 		public override string ToString()
 		{
-            return "\nNameOfStaff = "    + NameOfStaff +
-                "\nmanagerHourlyRate = " + managerHourlyRate +
-                "\nHoursWorked = "       + HoursWorked +
-                "\nAllowance = "         + Allowance +
-                "\nBasicPay = "          + BasicPay +
-                "\n\nTotalPay = "        + TotalPay;
+            return 
+                "\n---------------------------------------" +
+                "\nNameOfStaff        = " + NameOfStaff +
+				"\nHoursWorked        = " + HoursWorked +
+                "\nmanagerHourlyRate  = " + managerHourlyRate +
+				"\nBasicPay           = " + BasicPay +
+                "\nAllowance          = " + Allowance +
+                "\n" +
+                "\nTotalPay           = " + TotalPay +
+                "\n---------------------------------------";
 		}
 	}
 }

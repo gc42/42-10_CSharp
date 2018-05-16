@@ -35,23 +35,23 @@ namespace CSProject
             foreach (Staff f in myStaff)
             {
 
-                path = generalPath + f.NameOfStaff + ".txt";
+                path = generalPath + "xPay_" + f.NameOfStaff + ".txt";
                 using (StreamWriter sw = new StreamWriter(path))
                 {
                     sw.WriteLine("PAYSLIP FOR {0} {1}", (MonthsOfYear)month, year);
-                    sw.WriteLine("===================");
-                    sw.WriteLine("Name of Staff: {0}", f.NameOfStaff);
-                    sw.WriteLine("Hours Worked: {0}", f.HoursWorked);
+                    sw.WriteLine("================");
+                    sw.WriteLine("Name of Staff  : {0}", f.NameOfStaff);
+                    sw.WriteLine("Hours Worked   : {0}", f.HoursWorked);
                     sw.WriteLine("");
-                    sw.WriteLine("Basic Pay: {0:C}", f.BasicPay);
+                    sw.WriteLine("Basic Pay      : {0:C}", f.BasicPay);
                     if (f.GetType() == typeof(Manager))
-                        sw.WriteLine("Allowance: {0:C}", ((Manager)f).Allowance);
+                        sw.WriteLine("Allowance      : {0:C}", ((Manager)f).Allowance);
                     else if (f.GetType() == typeof(Admin))
-                        sw.WriteLine("Overtime: {0:C} hours", ((Admin)f).Overtime);
+                        sw.WriteLine("Overtime       : {0:C} hours", ((Admin)f).Overtime);
                     sw.WriteLine("");
-                    sw.WriteLine("===================");
-                    sw.WriteLine("Total Pay: {0:C}", f.TotalPay);
-                    sw.WriteLine("===================");
+                    sw.WriteLine("================");
+                    sw.WriteLine("Total Pay      : {0:C}", f.TotalPay);
+                    sw.WriteLine("================");
 
                     sw.Close();
                 }
@@ -64,19 +64,23 @@ namespace CSProject
         {
             var result =
                 from f in myStaff
-                where f.HoursWorked < 10
+                where f.HoursWorked < 100
                 orderby f.NameOfStaff ascending
                 select new { f.NameOfStaff, f.HoursWorked };
 
-            string path = "/Users/gcaron/projects/C#_Tuto/CSProject/summary.txt";
+            string path = "/Users/gcaron/projects/C#_Tuto/CSProject/xPay__summary.txt";
 
             using (StreamWriter sw = new StreamWriter(path))
             {
+                sw.WriteLine("PAYSLIP FOR {0} {1}", (MonthsOfYear)month, year);
                 sw.WriteLine("Staff with less than 10 working hours:\n");
+                sw.WriteLine("================");
+                sw.WriteLine("\n");
 
                 foreach (var f in result)
                 {
-                    sw.WriteLine("Name of Staff: {0}, Hours Worked: {1}", f.NameOfStaff, f.HoursWorked);
+                    sw.WriteLine("Name of Staff: {0}\nHours Worked : {1}", f.NameOfStaff, f.HoursWorked);
+                    sw.WriteLine("\n");
                 }
                 sw.Close();
             } 

@@ -6,6 +6,8 @@ namespace CSProject
         // Fields
         private const float     overtimeRate    = 15.5f;
         private const float     adminHourlyRate = 30.0f;
+        private const int       adminOverTime   = 160;
+
 
         // Properties
         public float Overtime { get; private set; }
@@ -22,21 +24,25 @@ namespace CSProject
             // Set BasicPay and TotalPay in base (parent) class
             base.CalculatePay();
 
-            if (HoursWorked > 160)
+            if (HoursWorked > adminOverTime)
             {
-                Overtime = overtimeRate * (HoursWorked - 160);
+                Overtime = overtimeRate * (HoursWorked - adminOverTime);
                 TotalPay = TotalPay + Overtime;
             }
         }
 
         public override string ToString()
         {
-            return "\nNameOfStaff = " + NameOfStaff +
-                "\nadminHourlyRate = " + adminHourlyRate +
-                "\nHoursWorked = " + HoursWorked +
-                "\nBasicPay = " + BasicPay +
-                "\nOvertime = " + Overtime +
-                "\n\nTotalPay = " + TotalPay;
+            return
+                "\n---------------------------------------" +
+                "\nNameOfStaff        = " + NameOfStaff +
+				"\nHoursWorked        = " + HoursWorked +
+                "\nadminHourlyRate    = " + adminHourlyRate +
+                "\nBasicPay           = " + BasicPay +
+                "\nOvertime           = " + Overtime +
+                "\n" +
+                "\nTotalPay           = " + TotalPay +
+                "\n---------------------------------------";
         }
 	}
 }
