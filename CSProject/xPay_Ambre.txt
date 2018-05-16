@@ -1,0 +1,11 @@
+PAYSLIP FOR FEV 2018
+================
+Name of Staff  : Ambre
+Hours Worked   : 161
+
+Basic Pay      : $8,050.00
+Allowance      : $1,000.00
+
+================
+Total Pay      : $9,050.00
+================

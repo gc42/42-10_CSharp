@@ -1,0 +1,6 @@
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/Appli_OCRoom/bin/Debug/Appli_OCRoom.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/Appli_OCRoom/bin/Debug/Appli_OCRoom.pdb
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/Appli_OCRoom/obj/x86/Debug/Appli_OCRoom.csprojResolveAssemblyReference.cache
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/Appli_OCRoom/obj/x86/Debug/Appli_OCRoom.csproj.CoreCompileInputs.cache
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/Appli_OCRoom/obj/x86/Debug/Appli_OCRoom.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/Appli_OCRoom/obj/x86/Debug/Appli_OCRoom.pdb

@@ -1,0 +1,11 @@
+PAYSLIP FOR FEV 2018
+================
+Name of Staff  : John
+Hours Worked   : 160
+
+Basic Pay      : $4,800.00
+Overtime       : $0.00 hours
+
+================
+Total Pay      : $4,800.00
+================

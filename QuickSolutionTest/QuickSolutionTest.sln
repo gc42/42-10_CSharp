@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickDate", "QuickDate\QuickDate.csproj", "{7BB09505-8374-4A0C-9727-5DB54D615D56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuickTest", "QuickTest\QuickTest.csproj", "{0A4F5604-095D-48D7-B6EA-6A22A9C45238}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7BB09505-8374-4A0C-9727-5DB54D615D56}.Debug|x86.ActiveCfg = Debug|x86
+		{7BB09505-8374-4A0C-9727-5DB54D615D56}.Debug|x86.Build.0 = Debug|x86
+		{7BB09505-8374-4A0C-9727-5DB54D615D56}.Release|x86.ActiveCfg = Release|x86
+		{7BB09505-8374-4A0C-9727-5DB54D615D56}.Release|x86.Build.0 = Release|x86
+		{0A4F5604-095D-48D7-B6EA-6A22A9C45238}.Debug|x86.ActiveCfg = Debug|x86
+		{0A4F5604-095D-48D7-B6EA-6A22A9C45238}.Debug|x86.Build.0 = Debug|x86
+		{0A4F5604-095D-48D7-B6EA-6A22A9C45238}.Release|x86.ActiveCfg = Release|x86
+		{0A4F5604-095D-48D7-B6EA-6A22A9C45238}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

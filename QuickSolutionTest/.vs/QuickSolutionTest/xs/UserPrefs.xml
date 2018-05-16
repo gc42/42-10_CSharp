@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{7BB09505-8374-4A0C-9727-5DB54D615D56}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QuickDate/EmptyClass.cs">
+    <Files>
+      <File FileName="QuickDate/Calendar.cs" Line="16" Column="12" />
+      <File FileName="QuickTest/Program.cs" Line="1" Column="1" />
+      <File FileName="QuickDate/EmptyClass.cs" Line="18" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QuickSolutionTest" expanded="True">
+            <Node name="QuickDate" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+            <Node name="QuickTest" expanded="True">
+              <Node name="References" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.QuickTest FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.QuickDate PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

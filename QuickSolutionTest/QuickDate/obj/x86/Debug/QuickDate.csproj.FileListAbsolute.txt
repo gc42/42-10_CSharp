@@ -1,0 +1,6 @@
+/Users/gcaron/projects/C#_Tuto/QuickSolutionTest/QuickDate/obj/x86/Debug/QuickDate.csprojResolveAssemblyReference.cache
+/Users/gcaron/projects/C#_Tuto/QuickSolutionTest/QuickDate/obj/x86/Debug/QuickDate.csproj.CoreCompileInputs.cache
+/Users/gcaron/projects/C#_Tuto/QuickSolutionTest/QuickDate/bin/Debug/QuickDate.exe
+/Users/gcaron/projects/C#_Tuto/QuickSolutionTest/QuickDate/bin/Debug/QuickDate.pdb
+/Users/gcaron/projects/C#_Tuto/QuickSolutionTest/QuickDate/obj/x86/Debug/QuickDate.exe
+/Users/gcaron/projects/C#_Tuto/QuickSolutionTest/QuickDate/obj/x86/Debug/QuickDate.pdb

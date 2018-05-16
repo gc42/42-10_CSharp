@@ -1,0 +1,11 @@
+PAYSLIP FOR FEV 2018
+================
+Name of Staff  : Carol
+Hours Worked   : 170
+
+Basic Pay      : $5,100.00
+Overtime       : $155.00 hours
+
+================
+Total Pay      : $5,255.00
+================
