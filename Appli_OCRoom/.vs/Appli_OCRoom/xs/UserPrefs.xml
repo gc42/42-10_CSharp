@@ -1,23 +1,20 @@
 ﻿<Properties StartupConfiguration="{19DB3D0C-A320-40D9-ADC4-1DDFD9AD3138}|Default">
-  <MonoDevelop.Ide.Workbench>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Appli_OCRoom" expanded="True">
-            <Node name="Appli_OCRoom" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="OC-Room_exo01.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.ItemProperties.OC-Room__17-Inputs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.OC-Room__TP3 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../OC-Room_TP2/Program_TP2.cs" line="72" offsetX="316" offsetY="1091" expression="list3.IEnumerator" liveUpdate="True" />
+    <Watch file="../../../OC-Room_TP2/Program_TP2.cs" line="76" offsetX="316" offsetY="1125" expression="list5" liveUpdate="True" />
+    <Watch file="../../../OC-Room_TP2/Program_TP2.cs" line="76" offsetX="316" offsetY="1151" expression="list5.IEnumerator" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.OC-Room__TP4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OC-Room__16-Cast PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OC-Room__TP1 PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.OC-Room__TP2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.Appli__OCRoom PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

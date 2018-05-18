@@ -1,0 +1,5 @@
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_17-Inputs/bin/Debug/OC-Room_17-Inputs.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_17-Inputs/bin/Debug/OC-Room_17-Inputs.pdb
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_17-Inputs/obj/x86/Debug/OC-Room_17-Inputs.csproj.CoreCompileInputs.cache
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_17-Inputs/obj/x86/Debug/OC-Room_17-Inputs.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_17-Inputs/obj/x86/Debug/OC-Room_17-Inputs.pdb

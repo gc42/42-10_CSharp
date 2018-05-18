@@ -1,0 +1,5 @@
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_16-Cast/bin/Debug/OC-Room_16-Cast.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_16-Cast/bin/Debug/OC-Room_16-Cast.pdb
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_16-Cast/obj/x86/Debug/OC-Room_16-Cast.csproj.CoreCompileInputs.cache
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_16-Cast/obj/x86/Debug/OC-Room_16-Cast.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_16-Cast/obj/x86/Debug/OC-Room_16-Cast.pdb

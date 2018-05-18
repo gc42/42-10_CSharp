@@ -1,0 +1,5 @@
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_TP3/bin/Debug/OC-Room_TP3.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_TP3/bin/Debug/OC-Room_TP3.pdb
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_TP3/obj/x86/Debug/OC-Room_TP3.csproj.CoreCompileInputs.cache
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_TP3/obj/x86/Debug/OC-Room_TP3.exe
+/Users/gcaron/projects/C#_Tuto/Appli_OCRoom/OC-Room_TP3/obj/x86/Debug/OC-Room_TP3.pdb
