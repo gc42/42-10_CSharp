@@ -1,5 +1,7 @@
-﻿<Properties StartupConfiguration="{19DB3D0C-A320-40D9-ADC4-1DDFD9AD3138}|Default">
+﻿<Properties StartupConfiguration="{D90C1626-FC78-4F42-8A79-75CA154A7B6F}|Default">
   <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.ItemProperties.OC-Room2__p02 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.OC-Room2__p05 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.OC-Room__17-Inputs PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

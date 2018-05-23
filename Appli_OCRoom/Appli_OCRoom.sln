@@ -15,6 +15,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OC-Room_17-Inputs", "OC-Roo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OC-Room_TP4", "OC-Room_TP4\OC-Room_TP4.csproj", "{5E4CDEB7-8713-4D57-933A-42E1CCFAE0D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OC-Room2_p02", "OC-Room2_p02\OC-Room2_p02.csproj", "{0EB73D95-B2C7-438D-BA9E-F531F91240BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OC-Room2_p05", "OC-Room2_p05\OC-Room2_p05.csproj", "{D90C1626-FC78-4F42-8A79-75CA154A7B6F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -49,5 +53,13 @@ Global
 		{5E4CDEB7-8713-4D57-933A-42E1CCFAE0D8}.Debug|x86.Build.0 = Debug|x86
 		{5E4CDEB7-8713-4D57-933A-42E1CCFAE0D8}.Release|x86.ActiveCfg = Release|x86
 		{5E4CDEB7-8713-4D57-933A-42E1CCFAE0D8}.Release|x86.Build.0 = Release|x86
+		{0EB73D95-B2C7-438D-BA9E-F531F91240BA}.Debug|x86.ActiveCfg = Debug|x86
+		{0EB73D95-B2C7-438D-BA9E-F531F91240BA}.Debug|x86.Build.0 = Debug|x86
+		{0EB73D95-B2C7-438D-BA9E-F531F91240BA}.Release|x86.ActiveCfg = Release|x86
+		{0EB73D95-B2C7-438D-BA9E-F531F91240BA}.Release|x86.Build.0 = Release|x86
+		{D90C1626-FC78-4F42-8A79-75CA154A7B6F}.Debug|x86.ActiveCfg = Debug|x86
+		{D90C1626-FC78-4F42-8A79-75CA154A7B6F}.Debug|x86.Build.0 = Debug|x86
+		{D90C1626-FC78-4F42-8A79-75CA154A7B6F}.Release|x86.ActiveCfg = Release|x86
+		{D90C1626-FC78-4F42-8A79-75CA154A7B6F}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 EndGlobal
